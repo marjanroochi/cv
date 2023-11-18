@@ -1,0 +1,132 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+}
+
+#title {
+  background-color: #FFC3A0;
+}
+
+h1 {
+  font-family: 'Dancing Script', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  color: #6B0000;
+  font-weight: bold;
+}
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 1rem;
+  }
+}
+
+h3 {
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+
+.container-fluid {
+  padding: 3% 5%;
+  color: black;
+}
+
+.navbar {
+  padding: 0 0 0.25rem;
+
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  color: black;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+@media (max-width: 900px) {
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+}
+
+.nav-link {
+  color: black;
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.insta-button {
+  margin-bottom: 20px;
+  background-color: #76a476;
+}
+
+.border {
+  color: gray;
+}
+
+.container {
+  color: black;
+}
+
+#features {
+  background-color: white;
+}
+
+.feature-box {
+  padding: 5rem;
+  text-align: center;
+}
+
+.fa-symbol {
+  color: #e5171f;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.fa-symbol:hover {
+  color: #b71218;
+}
+
+.carousel-item {
+  padding: 2% 30% 2% 30%;
+  background-color: #CD7054;
+}
+
+.carousel-image {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+#slides {
+  background-color: #FFC3A0;
+}
+
+.card-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card {
+  height: block;
+}
+
+.shop-row {
+  padding: 5% 10% 5% 10%;
+}
+
+.card-text {
+  text-overflow: clip;
+  height: 5rem;
+  overflow: auto;
+}
+
+.right_image{
+  width: 350px;
+  height: 350px;
+}
