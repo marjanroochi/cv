@@ -32,7 +32,7 @@ h3 {
 }
 
 .navbar {
-  padding: 0 0 0.25rem;
+  padding: 0 0 0.55rem;
 
 }
 
@@ -92,7 +92,7 @@ h3 {
 
 .carousel-item {
   padding: 2% 30% 2% 30%;
-  background-color: #CD7054;
+  background-color: white;
 }
 
 .carousel-image {
@@ -129,4 +129,8 @@ h3 {
 .right_image{
   width: 350px;
   height: 350px;
+}
+
+.col-lg-3{
+  padding-top: 3rem;
 }
